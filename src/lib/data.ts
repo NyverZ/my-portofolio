@@ -96,7 +96,7 @@ export const projects = [
   },
   {
     title: "Portofolio Website",
-    github: "https://gihttps://github.com/NyverZ/my-portofolio",
+    github: "https://github.com/NyverZ/my-portofolio",
     description: [
       "Sebuah web portofolio interaktif yang dirancang untuk menampilkan perjalanan profesional saya sebagai web developer. Di dalamnya terdapat bagian tentang profil, pengalaman kerja, keterampilan teknis, proyek–proyek unggulan, hingga pencapaian yang telah saya raih. Dibangun dengan teknologi modern, UI minimalis, animasi smooth, dan performa yang optimal di semua perangkat.",
     ],
