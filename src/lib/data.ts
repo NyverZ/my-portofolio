@@ -91,18 +91,14 @@ export const projects = [
     title: "VerzAnimeList",
     github: "https://github.com/NyverZ/anime-list",
     description: [
-      "Verzanimelist adalah kumpulan judul-judul anime yang disusun untuk berbagai tujuan, seperti memberikan rekomendasi, menampilkan yang paling populer, atau merencanakan tontonan. Daftar ini biasanya memuat informasi seperti judul anime, peringkat, jumlah episode, rating, jumlah penggemar, serta deskripsi singkat. Dengan daftar ini, penggemar dapat dengan mudah melacak anime yang telah ditonton, sedang ditonton, atau yang ingin ditonton. Verzanimelist menjadi alat yang berguna untuk mengatur pengalaman menonton dan menemukan anime baru yang sesuai dengan preferensi."
+      "Verzanimelist adalah kumpulan judul-judul anime yang disusun untuk berbagai tujuan, seperti memberikan rekomendasi, menampilkan yang paling populer, atau merencanakan tontonan. Daftar ini biasanya memuat informasi seperti judul anime, peringkat, jumlah episode, rating, jumlah penggemar, serta deskripsi singkat. Dengan daftar ini, penggemar dapat dengan mudah melacak anime yang telah ditonton, sedang ditonton, atau yang ingin ditonton. Verzanimelist menjadi alat yang berguna untuk mengatur pengalaman menonton dan menemukan anime baru yang sesuai dengan preferensi.",
     ],
   },
   {
-    title: "Dolor Sit Amet App",
-    github: "https://github.com/loremipsum/dolorapp",
+    title: "Portofolio Website",
+    github: "https://gihttps://github.com/NyverZ/my-portofolio",
     description: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-      "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.",
+      "Sebuah web portofolio interaktif yang dirancang untuk menampilkan perjalanan profesional saya sebagai web developer. Di dalamnya terdapat bagian tentang profil, pengalaman kerja, keterampilan teknis, proyek–proyek unggulan, hingga pencapaian yang telah saya raih. Dibangun dengan teknologi modern, UI minimalis, animasi smooth, dan performa yang optimal di semua perangkat.",
     ],
   },
 ];
