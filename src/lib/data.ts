@@ -68,8 +68,8 @@ export const education = [
 export const skills = {
   programmingLanguages: ["JavaScript", "TypeScript", "Go", "Python"],
   frontendDevelopment: [
-    "ReactJs",
-    "NextJs",
+    "ReactJS",
+    "NextJS",
     "TypeScript",
     "TailwindCSS",
     "HTML",
