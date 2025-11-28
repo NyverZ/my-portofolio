@@ -107,54 +107,54 @@ export const projects = [
   },
 ];
 
-// export const awards = [
-//   {
-//     name: "Lorem Ipsum Award",
-//     issuer: "Lorem Organization",
-//     date: "Jan 2020",
-//     type: "International",
-//     position: "First Place",
-//   },
-//   {
-//     name: "Dolor Sit Amet Prize",
-//     issuer: "Ipsum Foundation",
-//     date: "Feb 2021",
-//     type: "National",
-//     position: "Runner-up",
-//   },
-//   {
-//     name: "Consectetur Hackathon",
-//     issuer: "Adipiscing Org",
-//     date: "Mar 2022",
-//     type: "National",
-//     position: "Winner",
-//   },
-//   {
-//     name: "Vestibulum Event",
-//     issuer: "Vestibulum College",
-//     date: "Apr 2022",
-//     type: "National",
-//     position: "First Prize",
-//   },
-//   {
-//     name: "Curabitur Hackfest",
-//     issuer: "Curabitur Institute",
-//     date: "May 2022",
-//     type: "National",
-//     position: "Second Prize",
-//   },
-//   {
-//     name: "Praesent Hacks",
-//     issuer: "Praesent Group",
-//     date: "Jun 2022",
-//     type: "National",
-//     position: "Second Runner-up",
-//   },
-//   {
-//     name: "Fusce Hack",
-//     issuer: "Fusce Club",
-//     date: "Jul 2022",
-//     type: "National",
-//     position: "Most Impactful Hack",
-//   },
-// ];
+export const awards = [
+  {
+    name: "Lorem Ipsum Award",
+    issuer: "Lorem Organization",
+    date: "Jan 2020",
+    type: "International",
+    position: "First Place",
+  },
+  {
+    name: "Dolor Sit Amet Prize",
+    issuer: "Ipsum Foundation",
+    date: "Feb 2021",
+    type: "National",
+    position: "Runner-up",
+  },
+  {
+    name: "Consectetur Hackathon",
+    issuer: "Adipiscing Org",
+    date: "Mar 2022",
+    type: "National",
+    position: "Winner",
+  },
+  {
+    name: "Vestibulum Event",
+    issuer: "Vestibulum College",
+    date: "Apr 2022",
+    type: "National",
+    position: "First Prize",
+  },
+  {
+    name: "Curabitur Hackfest",
+    issuer: "Curabitur Institute",
+    date: "May 2022",
+    type: "National",
+    position: "Second Prize",
+  },
+  {
+    name: "Praesent Hacks",
+    issuer: "Praesent Group",
+    date: "Jun 2022",
+    type: "National",
+    position: "Second Runner-up",
+  },
+  {
+    name: "Fusce Hack",
+    issuer: "Fusce Club",
+    date: "Jul 2022",
+    type: "National",
+    position: "Most Impactful Hack",
+  },
+];
