@@ -39,7 +39,7 @@ export const workExperience = [
   },
   {
     company: "(Manual & Basic Automation)",
-    location: "Adipiscing, Ipsum",
+    location: "Bima & Lombok, Indonesia",
     position: "QA Engineer",
     period: "2023 - Present",
     achievements: [
