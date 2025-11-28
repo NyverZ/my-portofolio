@@ -39,7 +39,7 @@ export const workExperience = [
   },
   {
     company: "(Manual & Basic Automation)",
-    location: "Adipiscing, Ipsum",
+    location: "Bima & Lombok, Indonesia",
     position: "QA Engineer",
     period: "2023 - Present",
     achievements: [
@@ -68,14 +68,14 @@ export const education = [
 export const skills = {
   programmingLanguages: ["JavaScript", "TypeScript", "Go", "Python"],
   frontendDevelopment: [
-    "React",
-    "Next.js",
+    "ReactJS",
+    "NextJS",
     "TypeScript",
     "TailwindCSS",
     "HTML",
     "CSS",
   ],
-  backendDevelopment: ["NodeJS", "ExpressJS", "Laravel", "NestJS", "REST API"],
+  backendDevelopment: ["NodeJS", "ExpressJS","NestJS", "REST API"],
   databaseAndStorage: ["MySQL", "PostgreSQL", "MongoDB"],
   cloudAndDevOps: ["AWS", "Docker", "Kubernetes"],
   toolsAndServices: [
