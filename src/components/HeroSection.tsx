@@ -1,5 +1,5 @@
 import { personalInfo } from "@/lib/data";
-import { Mail, Github, MapPin, Linkedin } from "lucide-react";
+import { Mail, Github, MapPin, Linkedin, Instagram } from "lucide-react";
 import { motion } from "framer-motion";
 import MotionWrapper from "./MotionWrapper";
 
@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Web Developer 👨‍💻
+              Full-Stack Developer 👨‍💻
             </motion.p>
 
             <motion.div
@@ -97,6 +97,17 @@ export default function HeroSection() {
                 <Linkedin className="h-4 w-4 mr-2" />
                 🔗 LinkedIn
               </motion.a>
+              <motion.a
+                href={personalInfo.Instagram}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors"
+                variants={childVariants}
+                whileHover={{ scale: 1.05, color: "#4b5563" }}
+              >
+                <Instagram className="h-4 w-4 mr-2" />
+                ➡️ Instagram
+              </motion.a>
             </motion.div>
           </div>
 
@@ -119,13 +130,13 @@ export default function HeroSection() {
         </motion.div>
 
         <MotionWrapper>
-            <div className="bg-linear-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
-              <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
-                <span className="absolute left-0 top-0 h-full w-1 bg-linear-to-b from-purple-500 to-pink-500 rounded-full"></span>
-                {personalInfo.heroDescription}
-              </p>
-            </div>
-          </MotionWrapper>
+          <div className="bg-linear-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
+            <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
+              <span className="absolute left-0 top-0 h-full w-1 bg-linear-to-b from-purple-500 to-pink-500 rounded-full"></span>
+              {personalInfo.heroDescription}
+            </p>
+          </div>
+        </MotionWrapper>
       </div>
     </section>
   );
