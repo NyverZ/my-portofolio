@@ -1,5 +1,5 @@
 import { personalInfo } from "@/lib/data";
-import { Mail, Github, MapPin, Linkedin, Instagram } from "lucide-react";
+import { Mail, Github, MapPin, Linkedin, Instagram,Facebook } from "lucide-react";
 import { motion } from "framer-motion";
 import MotionWrapper from "./MotionWrapper";
 
@@ -107,6 +107,17 @@ export default function HeroSection() {
               >
                 <Instagram className="h-4 w-4 mr-2" />
                 ➡️ Instagram
+              </motion.a>
+              <motion.a
+                href={personalInfo.Facebook}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors"
+                variants={childVariants}
+                whileHover={{ scale: 1.05, color: "#4b5563" }}
+              >
+                <Facebook className="h-4 w-4 mr-2" />
+                🖇️ Facebook
               </motion.a>
             </motion.div>
           </div>

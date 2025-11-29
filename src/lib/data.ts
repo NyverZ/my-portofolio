@@ -5,6 +5,7 @@ export const personalInfo = {
   github: "https://github.com/NyverZ",
   linkedin: "https://www.linkedin.com/in/thurfah-nyverz-663a18373/",
   Instagram: "https://www.instagram.com/nyverz/",
+  Facebook: "https://www.facebook.com/profile.php?id=100084885194153",
   profilePicture: "/portofolio.jpeg",
   heroDescription:
     "Saya adalah seorang Full-Stack Developer dengan fokus pada pengembangan aplikasi web yang cepat, responsif, dan mudah digunakan. Berpengalaman dalam membangun fitur dari frontend hingga backend menggunakan React, Next.js, Node.js, Express, TailwindCSS, dan REST API. Saya terbiasa membuat antarmuka modern, mengelola logika server, mengoptimalkan performa aplikasi, serta memastikan struktur kode yang bersih dan maintainable. Saya selalu berusaha menggabungkan teknologi yang tepat untuk menciptakan solusi yang efektif dan berkualitas.",
@@ -75,7 +76,7 @@ export const skills = {
     "HTML",
     "CSS",
   ],
-  backendDevelopment: ["NodeJS", "ExpressJS","NestJS", "REST API"],
+  backendDevelopment: ["NodeJS", "ExpressJS", "NestJS", "REST API"],
   databaseAndStorage: ["MySQL", "PostgreSQL", "MongoDB"],
   cloudAndDevOps: ["AWS", "Docker", "Kubernetes"],
   toolsAndServices: [
